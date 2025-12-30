@@ -50,6 +50,24 @@ python bmw_analysis.py
 - Line charts visualizing BMW’s revenue and net income trends over time
 - Key financial ratios including ROE, ROA, Debt-to-Equity, and Net Profit Margin
 - Automatically generated Excel file containing financial statements and ratio analysis
+---
+
+## 🖼 Sample Visualizations
+
+### Revenue & Net Income Trend
+![Revenue and Net Income](images/revenue_net_income.png)
+
+### ROE & ROA Trend
+![ROE and ROA](images/roe_roa.png)
+
+---
+
+## 📁 Excel Output
+The project generates an Excel file containing financial statements and ratio analysis:
+
+📄 **BMW_Financial_Analysis.xlsx**  
+📂 Location: `outputs/`
+
 
 ---
 
